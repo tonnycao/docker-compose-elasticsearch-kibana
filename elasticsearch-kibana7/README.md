@@ -1,4 +1,4 @@
-# Elasticsearch
+# Elasticsearch 7.* and Kibana 7.*
 
 ### 部署
 
@@ -47,23 +47,3 @@ curl -H "Content-Type:application/json" -XPOST -u elastic 'http://127.0.0.1:9200
 #### 谷歌ES插件`Multi Elasticsearch Head`
 
 https://chrome.google.com/webstore/detail/multi-elasticsearch-head/cpmmilfkofbeimbmgiclohpodggeheim?hl=zh-CN
-
-
-```
-Changed password for user apm_system
-PASSWORD apm_system = znTWYyanxohkkwvX5bgY
-
-Changed password for user kibana
-PASSWORD kibana = EYzDIZwO0zWS9I81GWap
-
-Changed password for user logstash_system
-PASSWORD logstash_system = crC8kkBaxQAJRcDThMxK
-
-Changed password for user beats_system
-PASSWORD beats_system = wjvChf0FdEbCOeXdVFPR
-
-Changed password for user remote_monitoring_user
-PASSWORD remote_monitoring_user = 2RTqUr64Yvz7SOOBUuZB
-
-Changed password for user elastic
-PASSWORD elastic = VvmPqFBw3ckHYd90cPHk
